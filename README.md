@@ -62,8 +62,8 @@ $ vagrant up --provision
 Using it
 ========
 
-Consult whatever you are building/publishing how to build and publish, e.g.
-for balanced virtualenv you just do:
+Consult whatever you are building/publishing how to build and publish, e.g. for
+[balanced virtualenv](https://github.com/Poundpay/balanced) you just do:
 
 ```bash
 $ cd ~/code/bp/balanced/confucius/lib
